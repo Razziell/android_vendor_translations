@@ -16,5 +16,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="old_version_number">Установлено: <xliff:g id="old_version">%1$s</xliff:g></string>
-    <string name="new_version_number">Обновление: <xliff:g id="new_version">%1$s</xliff:g></string>
+    <string name="new_version_number">Будет установлено: <xliff:g id="new_version">%1$s</xliff:g></string>
 </resources>

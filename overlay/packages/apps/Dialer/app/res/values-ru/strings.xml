@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="max_brightness_on_incoming_call_mode">Максимальная яркость для входящих вызовов</string>
+    <string name="max_brightness_on_incoming_call_disabled">Отключено</string>
+    <string name="max_brightness_on_incoming_call_not_dnd">Всегда, кроме режима \"Не беспокоить\"</string>
+    <string name="max_brightness_on_incoming_call_always">Всегда</string>
+</resources>

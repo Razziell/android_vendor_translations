@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="max_brightness_on_incoming_call_mode">Максимальна яскравість для вхідних викликів</string>
+    <string name="max_brightness_on_incoming_call_disabled">Вимкнено</string>
+    <string name="max_brightness_on_incoming_call_not_dnd">Завжди, окрім режиму "Не турбувати"</string>
+    <string name="max_brightness_on_incoming_call_always">Завжди</string>
+</resources>
